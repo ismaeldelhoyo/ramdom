@@ -1,3 +1,4 @@
+//Master
 var numero = Math.random();
 var str = 'MAYOR que 0,5';
 
